@@ -1,4 +1,5 @@
-Function calculadoraDados (n1, n2){
+
+function calculadoraDados (n1, n2) {
         if (n1 > 6 && n2 > 6){
         console.log ("el dado debe tener 6 lados")
          }
@@ -16,5 +17,5 @@ Function calculadoraDados (n1, n2){
         }
 
     }
-     
+      
      calculadoraDados (7,7);
